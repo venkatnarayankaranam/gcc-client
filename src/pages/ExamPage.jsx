@@ -294,7 +294,7 @@ const ExamPage = () => {
                           : 'border-gray-500'
                       }`}>
                         {mcqAnswers[exam.mcqs[currentMcqIndex]._id] === idx && (
-                          <div className="w-2 h-2 rounded-full bg-black"></div>
+                          <div className="w-2 h-2 rounded-full bg-white"></div>
                         )}
                       </div>
                       <span className={`${

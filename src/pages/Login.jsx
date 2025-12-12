@@ -155,6 +155,7 @@ const Login = () => {
 
         {/* Footer */}
         <p className="text-center text-gray-600 text-sm mt-6">
+          
           © 2025 GCC Hiring Platform. All rights reserved.
         </p>
       </div>
