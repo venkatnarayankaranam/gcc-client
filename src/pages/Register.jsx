@@ -136,7 +136,7 @@ const Register = () => {
                   onChange={handleChange}
                   required
                   className="input-premium"
-                  placeholder="John Doe"
+                  placeholder="Your Name"
                 />
               </div>
 
@@ -149,7 +149,7 @@ const Register = () => {
                   onChange={handleChange}
                   required
                   className="input-premium"
-                  placeholder="2024CS001"
+                  placeholder="226Q1A4548"
                 />
               </div>
 
@@ -162,7 +162,7 @@ const Register = () => {
                   onChange={handleChange}
                   required
                   className="input-premium"
-                  placeholder="john@example.com"
+                  placeholder="test@gmail.com"
                 />
               </div>
 
